@@ -1,4 +1,4 @@
-### Hi there, I'm Maria Eduarda de Araújo! 👋
+### Hi there, I'm Eduarda! 👋
 ## 
 
 <div align="center">
