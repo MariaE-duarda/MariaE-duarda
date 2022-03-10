@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <br>
-  <img align="center" width="200" height="107" src="https://media1.tenor.com/images/e9307108d3a596d167ac5feb283887ea/tenor.gif?itemid=14290086">
+  <img align="center" width="200" height="135" src="https://media1.tenor.com/images/e9307108d3a596d167ac5feb283887ea/tenor.gif?itemid=14290086">
 </div>
 
 ## 
