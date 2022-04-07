@@ -1,7 +1,7 @@
 ### Hi there, I'm Eduarda! 👋
 ## 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=6500&color=32D165&multiline=true&height=65&lines=%3C!--+O+espa%C3%A7o+entre+a+teoria+e+a+pr%C3%A1tica+--%3E;%3C!--+N%C3%A3o+%C3%A9+t%C3%A3o+grande+como+%C3%A9+--%3E;%3C!--+A+teoria+na+pr%C3%A1tica+--%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=8FCEA9EC&multiline=true&lines=%23+Fa%C3%A7a+as+coisas+o+mais+simples+que+puder%2C;%23+Por%C3%A9m+n%C3%A3o+as+mais+simples.)](https://git.io/typing-svg)
 
 </br> 
 
