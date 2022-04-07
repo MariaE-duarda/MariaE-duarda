@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=6500&color=32D165&multiline=true&height=65&lines=%3C!--+O+espa%C3%A7o+entre+a+teoria+e+a+pr%C3%A1tica+--%3E;%3C!--+N%C3%A3o+%C3%A9+t%C3%A3o+grande+como+%C3%A9+--%3E;%3C!--+A+teoria+na+pr%C3%A1tica+--%3E)](https://git.io/typing-svg)
 
+</br> 
+
 <div align="center">
   <a href="https://github.com/MariaE-duarda">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
