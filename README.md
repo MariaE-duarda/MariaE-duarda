@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=8FCEA9EC&multiline=true&lines=%23+Fa%C3%A7a+as+coisas+o+mais+simples+que+puder%2C;%23+Por%C3%A9m+n%C3%A3o+as+mais+simples.)](https://git.io/typing-svg)
 
 </br> 
+</br>
 
 <div align="center">
   <a href="https://github.com/MariaE-duarda">
@@ -21,8 +22,10 @@
   </div>
   <br>
   <img align="center" width="200" height="135" src="https://media1.tenor.com/images/e9307108d3a596d167ac5feb283887ea/tenor.gif?itemid=14290086">
+  
 </div>
 
-## 
-  
+  ##
+### Entre em contato comigo: 
+    <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
