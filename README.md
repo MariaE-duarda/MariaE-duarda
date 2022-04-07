@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/MariaE-duarda">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaE-duarda&layout=compact&langs_count=7&theme=dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaE-duarda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -27,5 +27,6 @@
 
   ##
 ### Entre em contato comigo: 
-    <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardafreire115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
