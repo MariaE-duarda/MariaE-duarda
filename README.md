@@ -1,9 +1,8 @@
 ### Hi there, I'm Eduarda! 👋
 ## 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=17&color=DFDFDE&multiline=true&lines=%23+Fa%C3%A7a+as+coisas+o+mais+simples+que+puder%2C;%23+Por%C3%A9m+n%C3%A3o+as+mais+simples.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=6050&color=759C9C&lines=Meu+objetivo+%C3%A9+evoluir+constantemente.)](https://git.io/typing-svg)
 
-</br> 
 </br>
 
 <div align="center">
