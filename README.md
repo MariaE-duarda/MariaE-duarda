@@ -36,4 +36,9 @@
   
   ![Snake animation](https://github.com/MariaE-duarda/MariaE-duarda/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+<div align="center">
+  <img height=200 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
+  <img height=200 src="https://data.whicdn.com/images/113536005/original.gif">
+  </div>
 
