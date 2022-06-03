@@ -1,14 +1,17 @@
 ### Hi there, I'm Eduarda! 👋
 ## 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=6050&color=759C9C&lines=Meu+objetivo+%C3%A9+evoluir+constantemente.)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=5BA3E0&center=true&vCenter=falso&multiline=true&lines=Falar+%C3%A9+f%C3%A1cil%2C;Mostre-me+o+c%C3%B3digo.)](https://git.io/typing-svg)
 
+</div>
 </br>
 
 <div align="center">
   <a href="https://github.com/MariaE-duarda">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaE-duarda&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaE-duarda&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
