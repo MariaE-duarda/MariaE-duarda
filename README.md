@@ -41,4 +41,8 @@
   <img height=200 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
   <img height=200 src="https://data.whicdn.com/images/113536005/original.gif">
   </div>
-
+  
+ ### Profile visits
+<p align="">
+<img height="20px" bgcolor="white" alingn="center" src="https://profile-counter.glitch.me/MariaE-duarda/count.svg" />
+</p>
