@@ -43,13 +43,6 @@
   <img height=200 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
   <img height=200 src="https://data.whicdn.com/images/113536005/original.gif">
   </div>
-  
-  ### Principal repositório: 
-  <p>
-	<a href="https://github.com/MariaE-duarda/Portfolio-Dev-Web">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaE-duarda&repo=Portfolio-Dev-Web&hide_border=true&theme=light">
-	</a>
-</p>
 	
 <br>
   
