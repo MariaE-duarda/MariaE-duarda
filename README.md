@@ -68,6 +68,7 @@
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-black.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
  ### Profile visits
 <p align="">
