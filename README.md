@@ -50,8 +50,13 @@
 		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaE-duarda&repo=Portfolio-Dev-Web&hide_border=true&theme=light">
 	</a>
 </p>
+	
+<br>
   
   ## Tecnologias: 
+	
+<br>
+	
   ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) 
   ![NPM](https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -64,12 +69,14 @@
   ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-black.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
+<br>
+<br> 
+	
  ### Profile visits
 <p align="">
 <img height="20px" bgcolor="white" alingn="center" src="https://profile-counter.glitch.me/MariaE-duarda/count.svg" />
