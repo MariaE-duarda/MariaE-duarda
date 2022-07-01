@@ -1,7 +1,21 @@
 ## Hi there, I'm Eduarda! 👋
+
+<br>
 	
-	
-	ESTUDANDO DESENVOLVIMENTO WEB COM STACK FRONT-END.
+## <img width="35" alt="about" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">ﾠﾠMais sobre mim
+
+<img align="right" width="300" height=150 src="https://i.imgur.com/gBxP6oJ.gif" />
+
+```js
+function sobreMim(){
+	nome = document.getElementById('Eduarda');
+	idade = document.getElementById('17');
+	let interesses = 'Ler livros clássicos, aprender coisas novas, 
+	    estudar sobre desenvolvimento e UI design';
+}
+```
+
+<br> 
 
 
 <div align="center">
