@@ -4,7 +4,7 @@
 	
 ## <img width="35" alt="about" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">ﾠﾠMais sobre mim
 
-<img align="right" width="300" height=120 src="https://i.imgur.com/gBxP6oJ.gif" />
+<img align="right" width="300" height=130 src="https://i.imgur.com/gBxP6oJ.gif" />
 
 ```js
 function sobreMim(){
