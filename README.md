@@ -1,7 +1,7 @@
 ## Hi there, I'm Eduarda! 👋
 	
 	
-	                                          ESTUDANDO DESENVOLVIMENTO WEB COM STACK FRONT-END.
+	ESTUDANDO DESENVOLVIMENTO WEB COM STACK FRONT-END.
 
 
 <div align="center">
@@ -71,8 +71,9 @@
 	
 
 <p align="center">
- Profile visits <br>
+
+ __PROFILE VIEWS__  <br>
  
-<img height="20px" src="https://profile-counter.glitch.me/MariaE-duarda/count.svg" />
+<img height="16px" src="https://profile-counter.glitch.me/MariaE-duarda/count.svg" />
 
 </p>
