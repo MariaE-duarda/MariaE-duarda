@@ -1,5 +1,8 @@
-### Hi there, I'm Eduarda! 👋
-## 
+## Hi there, I'm Eduarda! 👋
+	
+	
+	                                          ESTUDANDO DESENVOLVIMENTO WEB COM STACK FRONT-END.
+
 
 <div align="center">
   
@@ -33,6 +36,8 @@
 ### Entre em contato comigo: 
   <a href = "mailto:eduardafreire115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+<br>
   
 <div align="center">
   
@@ -50,22 +55,21 @@
 	
 <br>
 	
-  ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=6DA55F) 
-  ![NPM](https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Netlify](https://img.shields.io/badge/netlify-black.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![NumPy](https://img.shields.io/badge/numpy-black.svg?style=for-the-badge&logo=numpy&logoColor=pink)
-  ![Pandas](https://img.shields.io/badge/pandas-black.svg?style=for-the-badge&logo=pandas&logoColor=red)
-  ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=orange)
-  ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=orange)
-  ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue)
-  ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/gitlab-black.svg?style=for-the-badge&logo=gitlab&logoColor=pink)
-  ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=green)
-  ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+  ![NodeJS](https://img.shields.io/badge/node.js-2d415c?&logo=node.js&logoColor=6DA55F) 
+  ![NPM](https://img.shields.io/badge/NPM-2d415c.svg?&logo=npm&logoColor=white)
+  ![React](https://img.shields.io/badge/react-2d415c.svg?&logo=react&logoColor=%2361DAFB)
+  ![Netlify](https://img.shields.io/badge/netlify-2d415c.svg?&logo=netlify&logoColor=#00C7B7)
+  ![NumPy](https://img.shields.io/badge/numpy-2d415c.svg?&logo=numpy&logoColor=pink)
+  ![Pandas](https://img.shields.io/badge/pandas-2d415c.svg?&logo=pandas&logoColor=red)
+  ![CSS3](https://img.shields.io/badge/css3-2d415c.svg?&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html5-2d415c.svg?&logo=html5&logoColor=orange)
+  ![JavaScript](https://img.shields.io/badge/javascript-2d415c.svg?&logo=javascript&logoColor=%23F7DF1E)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-2d415c?&logo=jupyter&logoColor=orange)
+  ![Python](https://img.shields.io/badge/python-2d415c?&logo=python&logoColor=blue)
+  ![GitHub](https://img.shields.io/badge/GitHub-2d415c?&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-2d415c.svg?&logo=gitlab&logoColor=pink)
+  ![Nodemon](https://img.shields.io/badge/Nodemon-2d415c?&logo=nodemon&logoColor=green)
+  ![TypeScript](https://img.shields.io/badge/typescript-2d415c.svg?&logo=typescript&logoColor=blue)
   
 <br>
 <br> 
