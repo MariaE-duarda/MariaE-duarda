@@ -1,5 +1,3 @@
-<br>
-	
 # <img width="30" alt="about" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">ﾠﾠHi there, I'm Eduarda! 👋
 
 <img align="right" width="300" height=135 src="https://i.imgur.com/gBxP6oJ.gif" />
