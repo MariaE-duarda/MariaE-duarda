@@ -85,7 +85,7 @@ function sobreMim(){
 
  __PROFILE VIEWS__  <br>
  
-<img height="16px" src="https://profile-counter.glitch.me/MariaE-duarda/count.svg" />
+<img align="left" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
 </p>
 
 <img align="" width="130px" src="https://img.shields.io/github/followers/MariaE-duarda?label=Seguidores&style=social" />
