@@ -4,10 +4,9 @@
 
 ```js
 function sobreMim(){
-	nome = document.getElementById('Eduarda');
-	idade = document.getElementById('17');
-	let interesses = 'Ler livros clássicos, aprender coisas novas, 
-	    estudar sobre desenvolvimento e UI design';
+	let nome = 'Eduarda';
+	let idade = '17';
+	let interesses = 'Ler livros clássicos, estudar sobre desenvolvimento e UI design';
 }
 ```
 
@@ -55,8 +54,8 @@ function sobreMim(){
   </div>
   
 <div align="center">
-  <img height=200 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
-  <img height=200 src="https://data.whicdn.com/images/113536005/original.gif">
+  <img height=180 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
+  <img height=180 src="https://data.whicdn.com/images/113536005/original.gif">
   </div>
 	
 <br>
@@ -73,7 +72,6 @@ function sobreMim(){
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   
