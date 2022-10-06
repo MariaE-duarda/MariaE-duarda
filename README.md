@@ -20,12 +20,6 @@ function sobreMim(){
 </div>
 </br>
 
-<div align="center">
-  <a href="https://github.com/MariaE-duarda">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaE-duarda&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaE-duarda&layout=compact&langs_count=8&theme=react"/>
-</div>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +30,7 @@ function sobreMim(){
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   <br>
-  <img align="center" width="200" height="135" src="https://media1.tenor.com/images/e9307108d3a596d167ac5feb283887ea/tenor.gif?itemid=14290086">
+
   
 </div>
 
@@ -53,10 +47,6 @@ function sobreMim(){
   ![Snake animation](https://github.com/MariaE-duarda/MariaE-duarda/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-<div align="center">
-  <img height=180 src="https://uploads.spiritfanfiction.com/historias/capas/202001/sem-abracos-quentinhos-pro-lele-18305880-100220200020.gif">
-  <img height=180 src="https://data.whicdn.com/images/113536005/original.gif">
-  </div>
 	
 <br>
   
