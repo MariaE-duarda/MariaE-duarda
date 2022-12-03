@@ -64,12 +64,13 @@ function sobreMim(){
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  
 <br>
 <br> 
 	
 
 <p align="center">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=1000)
 
  __PROFILE VIEWS__  <br>
  
@@ -77,3 +78,4 @@ function sobreMim(){
 </p>
 
 <img align="" width="130px" src="https://img.shields.io/github/followers/MariaE-duarda?label=Seguidores&style=social" />
+
