@@ -5,8 +5,9 @@
 ```js
 function sobreMim(){
 	let nome = 'Eduarda';
-	let idade = '17';
-	let interesses = 'Ler livros clássicos, estudar sobre desenvolvimento e UI design';
+	let idade = '';
+	let interesses = 'Estudar astronomia, estudar assuntos poucos debatidos e
+			desenvolver sites.';
 }
 ```
 
