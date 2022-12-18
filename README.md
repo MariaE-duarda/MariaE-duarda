@@ -5,9 +5,9 @@
 ```js
 function sobreMim(){
 	let nome = 'Eduarda';
-	let idade = '';
-	let interesses = 'Estudar astronomia, estudar assuntos poucos debatidos e
-			desenvolver sites.';
+	let idade = '18 years';
+	let interesses = 'Study astronomy, study subjects rarely discussed and
+develop websites.';
 }
 ```
 
@@ -37,7 +37,7 @@ function sobreMim(){
 
   ##
 
-### Entre em contato comigo: 
+### Please contact me: 
   <a href = "mailto:eduardafreire115@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/maria-eduarda-d-218822219//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
@@ -59,9 +59,6 @@ function sobreMim(){
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=1000)
 
  __PROFILE VIEWS__  <br>
- 
-<img align="left" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
-</p>
 
-<img align="" width="130px" src="https://img.shields.io/github/followers/MariaE-duarda?label=Seguidores&style=social" />
+<img align="" width="130px" src="https://img.shields.io/github/followers/MariaE-duarda?label=Followers&style=social" /> <img align="left" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
 
