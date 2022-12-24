@@ -28,7 +28,7 @@
 
 <div  align="start"> 
 	
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=4&width=550)  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=450)  
 	<div margin-top="-50px" > <div align="right"> __PROFILE VIEWS__ </div>
  <img align="right" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
 </div>
