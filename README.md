@@ -4,6 +4,7 @@
 <br>
 <br> 
 
+Tecnologias utilizadas: 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
