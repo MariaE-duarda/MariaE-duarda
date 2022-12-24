@@ -1,25 +1,9 @@
-# <img width="30" alt="about" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">ﾠﾠHi there, I'm Eduarda! 👋
+# <img width="30" alt="about" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">  Hi there, I'm Eduarda! 👋
 
-<img align="right" width="300" height=135 src="https://i.imgur.com/gBxP6oJ.gif" />
-
-```js
-function sobreMim(){
-	let nome = 'Eduarda';
-	let idade = '18 years';
-	let interesses = 'Study astronomy, study subjects rarely discussed and
-develop websites.';
-}
-```
-
+<img align="right" width="300" height=135 src="https://i.imgur.com/gBxP6oJ.gif" /> 
+<br>
 <br> 
 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&color=5BA3E0&center=true&vCenter=falso&multiline=true&lines=Falar+%C3%A9+f%C3%A1cil%2C;Mostre-me+o+c%C3%B3digo.)](https://git.io/typing-svg)
-
-</div>
-</br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
