@@ -23,16 +23,29 @@
 </div>
 
   ##
+  
+  > Hello, welcome to my GitHub. </br>
+My name is Maria Eduarda de Araújo Freire, and I'm currently a frontend 
+programmer focused on JavaScript with ReactJs and React Native. I'm 
+passionate about technology and the area itself, I really like learning new 
+stacks and especially being able to implement something with them. I'm 
+looking to perfect myself, at the moment, in Blockchain and Backend. 
   	
 <br>
-
-<div  align="start"> 
+<div align='left'>
 	
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=450)  
-	<div margin-top="-50px" > <div align="right"> __PROFILE VIEWS__ </div>
- <img align="right" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=450&align=center) 
 </div>
   
+
+
+<div>
+	
+<div align="right"> 
+	PROFILE VIEWS
+</div>
+ <img align="right" width="70px" src="https://visitor-badge.laobi.icu/badge?page_id=MariaE-duarda.visitor-badge" />
+	
 </div>
   
 
