@@ -26,7 +26,7 @@
 
   ##
   
-  > Hello, welcome to my GitHub. </br>
+  > Hello, welcome to my GitHub. 
 My name is Maria Eduarda de Araújo Freire, and I'm currently a frontend 
 programmer focused on JavaScript with ReactJs and React Native. I'm 
 passionate about technology and the area itself, I really like learning new 
