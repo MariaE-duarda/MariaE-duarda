@@ -33,7 +33,6 @@ looking to perfect myself, at the moment, in Blockchain and Backend.
 <br>
 <div align='left'>
 	
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kmo4u3wdb0fmn3i0ynxfobesp&count=3&width=450&align=center) 
 </div>
   
 
